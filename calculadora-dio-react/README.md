@@ -12,7 +12,7 @@ Fazer a funcionalidade para calcular a divisão
 
 ## Projeto:
 <p>
-<img alt="Home" src="https://github.com/calasso/projetos-REACT/blob/master/calculadora-dio-react/README/calc-project.png">
+<img alt="Calculadora" src="https://github.com/calasso/projetos-REACT/blob/main/calculadora-dio-react/README/calc-project.png">
 </p>
 
 ## Contato:
