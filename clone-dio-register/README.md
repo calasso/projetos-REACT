@@ -1,4 +1,4 @@
-<h1 align="center"> **_CLONE DIO_** </h1>
+<h1 align="center"> _CLONE DIO_ </h1>
 
 ## Sobre o projeto
 
@@ -7,10 +7,10 @@
 
 
 <p>
-<img alt="Home" src="https://github.com/calasso/projetos-REACT/blob/main/clone-dio-register/README/home.png">
-<img alt="Register" src="https://github.com/calasso/projetos-REACT/blob/main/clone-dio-register/README/register.png">
-<img alt="Login" src="https://github.com/calasso/projetos-REACT/blob/main/clone-dio-register/README/login.png">
-<img alt="Feed" src="https://github.com/calasso/projetos-REACT/blob/main/clone-dio-register/README/feed.png">
+<img alt="Home" src="https://github.com/calasso/projetos-REACT/blob/main/clone-dio-register/src/README/home.png">
+<img alt="Register" src="https://github.com/calasso/projetos-REACT/blob/main/clone-dio-registersrc//README/register.png">
+<img alt="Login" src="https://github.com/calasso/projetos-REACT/blob/main/clone-dio-register/src/README/login.png">
+<img alt="Feed" src="https://github.com/calasso/projetos-REACT/blob/main/clone-dio-register/src/README/feed.png">
 </p>
 
 ## Tecnologias e Bibliotecas
